@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Water Monster Level 1 -->
+  <!-- Body -->
+  <circle cx="100" cy="100" r="40" fill="#42a5f5"/>
+  <circle cx="100" cy="100" r="38" fill="#64b5f6"/>
+
+  <!-- Spots -->
+  <path d="M85,90 Q88,85 92,88 Z" fill="#0d47a1" opacity="0.5"/>
+  <path d="M110,115 Q115,112 112,108 Z" fill="#0d47a1" opacity="0.5"/>
+  <path d="M90,120 Q95,125 98,118 Z" fill="#0d47a1" opacity="0.5"/>
+
+  <!-- Fins -->
+  <path d="M60,100 Q40,90 60,80 Z" fill="#2196f3"/>
+  <path d="M140,100 Q160,90 140,80 Z" fill="#2196f3"/>
+
+  <!-- Top fin -->
+  <path d="M100,60 Q100,40 110,50 Q120,40 100,60 Z" fill="#2196f3"/>
+
+  <!-- Eyes -->
+  <circle cx="85" cy="85" r="10" fill="white"/>
+  <circle cx="115" cy="85" r="10" fill="white"/>
+  <circle cx="85" cy="85" r="5" fill="black"/>
+  <circle cx="115" cy="85" r="5" fill="black"/>
+  <circle cx="87" cy="83" r="2" fill="white"/>
+  <circle cx="117" cy="83" r="2" fill="white"/>
+
+  <!-- Mouth -->
+  <path d="M90,110 Q100,120 110,110" stroke="black" stroke-width="2" fill="none"/>
+
+  <!-- Bubbles -->
+  <circle cx="75" cy="70" r="5" fill="#e3f2fd" opacity="0.7"/>
+  <circle cx="125" cy="70" r="3" fill="#e3f2fd" opacity="0.7"/>
+  <circle cx="130" cy="60" r="4" fill="#e3f2fd" opacity="0.7"/>
+
+  <!-- Shadow -->
+  <ellipse cx="100" cy="145" rx="30" ry="5" fill="#00000033"/>
+</svg>

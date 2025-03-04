@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Air Monster Level 1 -->
+  <!-- Body -->
+  <circle cx="100" cy="100" r="40" fill="#b3e5fc"/>
+  <circle cx="100" cy="100" r="38" fill="#e1f5fe"/>
+
+  <!-- Swirls -->
+  <path d="M85,90 Q75,80 85,75 Q95,70 90,80 Z" fill="#81d4fa" opacity="0.7"/>
+  <path d="M115,90 Q125,80 115,75 Q105,70 110,80 Z" fill="#81d4fa" opacity="0.7"/>
+  <path d="M100,120 Q110,130 120,120 Q130,110 120,105 Q110,100 100,110 Z" fill="#81d4fa" opacity="0.7"/>
+
+  <!-- Cloud-like formations -->
+  <path d="M70,90 Q60,85 65,80 Q70,75 75,80 Q80,85 70,90 Z" fill="#e1f5fe"/>
+  <path d="M130,90 Q140,85 135,80 Q130,75 125,80 Q120,85 130,90 Z" fill="#e1f5fe"/>
+  <path d="M100,60 Q90,55 95,50 Q100,45 105,50 Q110,55 100,60 Z" fill="#e1f5fe"/>
+
+  <!-- Eyes -->
+  <circle cx="85" cy="85" r="10" fill="white"/>
+  <circle cx="115" cy="85" r="10" fill="white"/>
+  <circle cx="85" cy="85" r="5" fill="#29b6f6"/>
+  <circle cx="115" cy="85" r="5" fill="#29b6f6"/>
+  <circle cx="87" cy="83" r="2" fill="white"/>
+  <circle cx="117" cy="83" r="2" fill="white"/>
+
+  <!-- Mouth -->
+  <path d="M90,110 Q100,120 110,110" stroke="#29b6f6" stroke-width="2" fill="none"/>
+
+  <!-- Small wind wisps -->
+  <path d="M60,100 Q50,95 55,90 Q60,85 60,100" fill="#e1f5fe" opacity="0.5"/>
+  <path d="M140,100 Q150,95 145,90 Q140,85 140,100" fill="#e1f5fe" opacity="0.5"/>
+
+  <!-- Shadow -->
+  <ellipse cx="100" cy="145" rx="30" ry="5" fill="#00000033"/>
+</svg>
